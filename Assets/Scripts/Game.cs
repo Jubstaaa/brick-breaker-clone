@@ -17,7 +17,6 @@ public class Game : MonoBehaviour
     void Start()
 
     {
-        guessButton.interactable = false;
         StartGame();
     }
 
